@@ -1,0 +1,8 @@
+{
+    "name": "prita",
+    "phone": 9876543217,
+    "Address": [
+      { "address_line": "hadapsar", "landmark": "near dmart", "pincode": "411028" }
+    ],
+    "email_id": "prita.dorage@codeastu.com"
+  }
