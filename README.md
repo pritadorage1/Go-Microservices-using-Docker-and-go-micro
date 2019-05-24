@@ -2,10 +2,11 @@
 Go micro services using docker and go micro framework
 
 # go to get-employee-service
-$make build
-$make run
+1) run command "make build"
+2) run command "make run"
+
 
 #go to employee-cli
-$make build
-$make run
+1) run command "make build"
+2) run command "make run"
 
